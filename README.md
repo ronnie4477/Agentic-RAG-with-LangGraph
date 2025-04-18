@@ -19,3 +19,11 @@ A powerful Retrieval-Augmented Generation (RAG) system enhanced with agentic wor
 - **BeautifulSoup / WebBaseLoader** – Web scraping and HTML parsing
 
 
+## 💻 Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/ronnie4477/Agentic-RAG-with-LangGraph.git
+cd Agentic-RAG-with-LangGraph
+pip install -r requirements.txt
